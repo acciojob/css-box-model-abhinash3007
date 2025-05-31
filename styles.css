@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-        .box-model-example {
+ .demo-box {
             width: 300px;
             background-color: lightblue;
             border: 15px solid blue;
